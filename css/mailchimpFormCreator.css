@@ -1,0 +1,57 @@
+.mcfc_form_container{
+	padding: 10px 10px 10px 10px
+}
+
+.mcfc_headline{
+	font-size:36px;
+	text-align:center;
+}
+
+.mcfc_message{
+}
+
+.mcfc_image{
+	margin:0 auto;
+}
+
+.mcfc_image img{
+	display: inline-block;
+}
+
+.mcfc_button{
+	text-align: center;
+}
+
+.mcfc_button .btn {
+  background: #8a8a8a;
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 3px 10px 3px 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.mcfc_name{
+	clear:both;
+	display: block;
+	margin:0 auto;
+}
+
+.mcfc_email{
+	clear:both;
+	display: block;
+	margin:0 auto;
+}
+
+#mcfc_name_field{
+	margin-bottom:10px;
+	
+}
+
+#mcfc_email_field{
+	
+}
