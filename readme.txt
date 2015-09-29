@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags:   contact form, contact form 7, form, mailchimp, mailinglist, multisite, newsletter, optin, registration form, shortcode, sign-up form, subscribe, opt-in, mailing list, email form, email marketing, forms, subscribe form, subscription, email, marketing, signup, MailChimp form, MailChimp plugin, mailchimp signup form, mailchimp signup widget, mailchimp widget, mailchimp wordpress
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -27,6 +27,10 @@ An easy way to place a Mailchimp form on your Wordpress site.
 ###Add Mailchimp forms to any post or page
 
 Whether you are writing a post about your company or another company, you can include a well formatted Mailchimp form.
+
+###Where to place your Mailchimp forms
+
+You can place your Mailchimp form created with the Mailchimp Form Creator in any page or post.  You can also place your Mailchimp form in the sidebar.  Another good place to put your Mailchimp form is on your About page and your 404 page.
 
 ###Quick Start Guide
 
